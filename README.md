@@ -1,6 +1,6 @@
 # Proyecto Final - Inventario de Productos
 
-Este proyecto fue realizado como entrega final del curso de Programación en Python.  
+Este proyecto fue realizado como entrega final del curso de Inciciacion Inicial de Programación en Python.  
 Consiste en una aplicación de consola para gestionar productos de un inventario utilizando una base de datos SQLite.
 
 ---
